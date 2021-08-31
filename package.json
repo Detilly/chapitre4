@@ -1,0 +1,19 @@
+{
+  "name": "chapitre4",
+  "version": "1.0.0",
+  "description": "Exemples du chapitre 4 du cours Programmation Web 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Detilly/chapitre4.git"
+  },
+  "author": "Julien V",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Detilly/chapitre4/issues"
+  },
+  "homepage": "https://github.com/Detilly/chapitre4#readme"
+}
